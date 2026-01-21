@@ -10,8 +10,8 @@ public class MainSteps {
 	public void user_is_on_net_banking_landing_page() {
 	    // Write code here that turns the phrase above into concrete actions
 		 System.out.println("User is on NetBanking landing page");
-		 System.out.println("User is on NetBanking landing page");
-		 System.out.println("User is on NetBanking landing page");
+		System.out.println("User is on NetBanking landing page");
+		 
 	   
 	   
 	}
